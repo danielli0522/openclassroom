@@ -1,0 +1,891 @@
+{
+  "generatedAt": "2026-06-18T19:38:12.437Z",
+  "website": "https://classroom.aiflowlearn.net",
+  "source": {
+    "openMaicDataDir": "/Users/lshl124/openclaw-aigc-project/aiflowlearn-codex-repo/THU-MAIC-OpenMAIC/data",
+    "localClassroomSourcesDir": "/Users/lshl124/openclaw-aigc-project/aiflowlearn/data/classroom-sources",
+    "skillpackDir": "/Users/lshl124/openclaw-aigc-project/aiflowlearn/data/skillpacks/builtin",
+    "minSkillpackScenes": 10
+  },
+  "totals": {
+    "entries": 42,
+    "github": 26,
+    "skillpack": 16
+  },
+  "entries": [
+    {
+      "slug": "anthropic-cookbook",
+      "kind": "github",
+      "title": "Claude 与 Agent 应用开发实战",
+      "description": "Interactive classroom generated from anthropics/anthropic-cookbook.",
+      "category": "ai",
+      "repoFullName": "anthropics/anthropic-cookbook",
+      "repoUrl": "https://github.com/anthropics/anthropic-cookbook",
+      "sceneCount": 40,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/anthropic-cookbook",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/anthropic-cookbook",
+      "outline": [
+        "Claude API 与基础能力",
+        "RAG 与知识检索",
+        "工具使用 Tool Use",
+        "构建 Agent",
+        "托管 Agent Managed Agents",
+        "Agent 模式与扩展思考",
+        "多模态 Multimodal",
+        "Agent Skills"
+      ]
+    },
+    {
+      "slug": "addyosmani-agent-skills",
+      "kind": "github",
+      "title": "Agent Skills 工程化实战",
+      "description": "Interactive classroom generated from addyosmani/agent-skills.",
+      "category": "ai",
+      "repoFullName": "addyosmani/agent-skills",
+      "repoUrl": "https://github.com/addyosmani/agent-skills",
+      "sceneCount": 33,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/addyosmani-agent-skills",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/addyosmani-agent-skills",
+      "outline": [
+        "概览与入门：Agent Skills 工程化体系",
+        "开发生命周期与 Define 阶段",
+        "Plan 与 Build 阶段：实现技能",
+        "Verify 阶段：测试与调试",
+        "Review 阶段：质量、安全与性能",
+        "Ship 阶段与 Agent 编排",
+        "Slash Commands、Hooks 与扩展"
+      ]
+    },
+    {
+      "slug": "llms-from-scratch",
+      "kind": "github",
+      "title": "从零构建大语言模型",
+      "description": "Interactive classroom generated from rasbt/LLMs-from-scratch.",
+      "category": "ai",
+      "repoFullName": "rasbt/LLMs-from-scratch",
+      "repoUrl": "https://github.com/rasbt/LLMs-from-scratch",
+      "sceneCount": 32,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/llms-from-scratch",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/llms-from-scratch",
+      "outline": [
+        "理解大语言模型",
+        "文本数据处理",
+        "注意力机制",
+        "搭建 GPT 模型",
+        "无标签预训练",
+        "文本分类微调",
+        "指令微调"
+      ]
+    },
+    {
+      "slug": "llama-index",
+      "kind": "github",
+      "title": "LlamaIndex 数据框架实战",
+      "description": "Interactive classroom generated from run-llama/llama_index.",
+      "category": "data",
+      "repoFullName": "run-llama/llama_index",
+      "repoUrl": "https://github.com/run-llama/llama_index",
+      "sceneCount": 27,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/llama-index",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/llama-index",
+      "outline": [
+        "LlamaIndex 概览与架构",
+        "核心框架 Core Framework",
+        "Workflow 工作流系统",
+        "Agent 系统",
+        "LLM 集成",
+        "向量存储与嵌入",
+        "数据连接与知识图谱"
+      ]
+    },
+    {
+      "slug": "vibe-coding-series",
+      "kind": "github",
+      "title": "Vibe Coding 实战系列（入门·方法·工具）",
+      "description": "Interactive classroom generated from datawhalechina/easy-vibe.",
+      "category": "data",
+      "repoFullName": "datawhalechina/easy-vibe",
+      "repoUrl": "https://github.com/datawhalechina/easy-vibe",
+      "sceneCount": 27,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/vibe-coding-series",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/vibe-coding-series",
+      "outline": [
+        "AI IDE 三剑客（入门）",
+        "从词语到原型（入门）",
+        "从原型到产品（入门）",
+        "提示设计（方法）",
+        "上下文质量门（方法）",
+        "工程循环（方法）",
+        "Vibe 工具全景（工具）",
+        "浏览器层工具（工具）"
+      ]
+    },
+    {
+      "slug": "agentsview",
+      "kind": "github",
+      "title": "AgentsView：本地优先的 Coding Agent 会话分析与洞察系统",
+      "description": "Interactive classroom generated from kenn-io/agentsview.",
+      "category": "ai",
+      "repoFullName": "kenn-io/agentsview",
+      "repoUrl": "https://github.com/kenn-io/agentsview",
+      "sceneCount": 23,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/agentsview",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/agentsview",
+      "outline": [
+        "概览与快速开始",
+        "Agent 会话数据采集与解析",
+        "数据存储与全文检索",
+        "搜索与会话管理",
+        "Token 用量统计与成本分析"
+      ]
+    },
+    {
+      "slug": "ai-agents-for-beginners",
+      "kind": "github",
+      "title": "AI Agents for Beginners",
+      "description": "Interactive classroom generated from microsoft/ai-agents-for-beginners.",
+      "category": "ai",
+      "repoFullName": "microsoft/ai-agents-for-beginners",
+      "repoUrl": "https://github.com/microsoft/ai-agents-for-beginners",
+      "sceneCount": 23,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/ai-agents-for-beginners",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/ai-agents-for-beginners",
+      "outline": [
+        "课程环境搭建",
+        "AI Agent 概念与类型",
+        "探索 AI Agent 框架",
+        "Agent 设计原则",
+        "工具使用设计模式"
+      ]
+    },
+    {
+      "slug": "headroom",
+      "kind": "github",
+      "title": "Headroom LLM 上下文压缩与优化系统",
+      "description": "Interactive classroom generated from chopratejas/headroom.",
+      "category": "ai",
+      "repoFullName": "chopratejas/headroom",
+      "repoUrl": "https://github.com/chopratejas/headroom",
+      "sceneCount": 23,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/headroom",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/headroom",
+      "outline": [
+        "Headroom 核心概念与架构概览",
+        "Transform Pipeline 转换流水线",
+        "压缩策略详解：JSON 与工具输出优化",
+        "代码与文本压缩策略",
+        "CCR 可逆压缩与检索系统"
+      ]
+    },
+    {
+      "slug": "hermes-agent",
+      "kind": "github",
+      "title": "Hermes Agent 开发实战",
+      "description": "Interactive classroom generated from NousResearch/hermes-agent.",
+      "category": "ai",
+      "repoFullName": "NousResearch/hermes-agent",
+      "repoUrl": "https://github.com/NousResearch/hermes-agent",
+      "sceneCount": 23,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/hermes-agent",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/hermes-agent",
+      "outline": [
+        "Hermes Agent 概览",
+        "上下文引擎",
+        "多模型适配器",
+        "凭证池与认证",
+        "CLI 与消息集成",
+        "ACP 协议与 Copilot",
+        "洞察与错误处理"
+      ]
+    },
+    {
+      "slug": "awesome-llm-apps",
+      "kind": "github",
+      "title": "LLM 应用实战集",
+      "description": "Interactive classroom generated from Shubhamsaboo/awesome-llm-apps.",
+      "category": "ai",
+      "repoFullName": "Shubhamsaboo/awesome-llm-apps",
+      "repoUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "sceneCount": 22,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/awesome-llm-apps",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/awesome-llm-apps",
+      "outline": [
+        "AI Agent 框架速成",
+        "单 Agent 与多 Agent 应用",
+        "MCP Agent 应用",
+        "RAG 教程",
+        "Agent Skills 技能集",
+        "生成式 UI Agent",
+        "常驻 Agent 与高级应用"
+      ]
+    },
+    {
+      "slug": "litellm",
+      "kind": "github",
+      "title": "LiteLLM 统一 LLM 网关实战",
+      "description": "Interactive classroom generated from BerriAI/litellm.",
+      "category": "ai",
+      "repoFullName": "BerriAI/litellm",
+      "repoUrl": "https://github.com/BerriAI/litellm",
+      "sceneCount": 22,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/litellm",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/litellm",
+      "outline": [
+        "LiteLLM 概览与双模架构",
+        "Core SDK 与 Completion API",
+        "Router 路由与负载均衡",
+        "Provider 集成体系",
+        "LiteLLM Proxy Server",
+        "认证 / 预算 / 限流多租户",
+        "缓存 / 可观测 / 成本"
+      ]
+    },
+    {
+      "slug": "skillspector",
+      "kind": "github",
+      "title": "AI Agent Skills 安全扫描实战",
+      "description": "Interactive classroom generated from NVIDIA/SkillSpector.",
+      "category": "infra",
+      "repoFullName": "NVIDIA/SkillSpector",
+      "repoUrl": "https://github.com/NVIDIA/SkillSpector",
+      "sceneCount": 22,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/skillspector",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/skillspector",
+      "outline": [
+        "SkillSpector 概览与核心架构",
+        "输入解析与上下文构建",
+        "静态模式与行为分析引擎",
+        "MCP 协议安全与语义分析",
+        "供应链安全与报告生成"
+      ]
+    },
+    {
+      "slug": "codegraph",
+      "kind": "github",
+      "title": "CodeGraph 代码知识图谱实战（为 AI 构建可查询的代码图谱）",
+      "description": "Interactive classroom generated from colbymchenry/codegraph.",
+      "category": "data",
+      "repoFullName": "colbymchenry/codegraph",
+      "repoUrl": "https://github.com/colbymchenry/codegraph",
+      "sceneCount": 21,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/codegraph",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/codegraph",
+      "outline": [
+        "CodeGraph 概览与知识图谱模型",
+        "快速上手与配置",
+        "CLI 命令体系",
+        "AI 集成：Claude Code 与 MCP",
+        "架构与抽取管线",
+        "开发扩展与 API"
+      ]
+    },
+    {
+      "slug": "container",
+      "kind": "github",
+      "title": "Apple Container — 轻量级 Linux 虚拟机容器引擎（Swift + Virtualization.framework）",
+      "description": "Interactive classroom generated from apple/container.",
+      "category": "infra",
+      "repoFullName": "apple/container",
+      "repoUrl": "https://github.com/apple/container",
+      "sceneCount": 21,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/container",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/container",
+      "outline": [
+        "架构概览与核心概念",
+        "容器生命周期管理",
+        "网络子系统与虚拟化",
+        "镜像管理与存储",
+        "构建系统与多架构支持"
+      ]
+    },
+    {
+      "slug": "open-notebook",
+      "kind": "github",
+      "title": "Open Notebook：开源 NotebookLM 架构与实现",
+      "description": "Interactive classroom generated from lfnovo/open-notebook.",
+      "category": "data",
+      "repoFullName": "lfnovo/open-notebook",
+      "repoUrl": "https://github.com/lfnovo/open-notebook",
+      "sceneCount": 21,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/open-notebook",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/open-notebook",
+      "outline": [
+        "概览与架构设计",
+        "数据模型与关系管理",
+        "多模态内容摄取与处理",
+        "向量化嵌入与检索增强生成",
+        "LangGraph 状态机工作流",
+        "AI 笔记生成与问答系统",
+        "多提供商 AI 路由与凭证管理"
+      ]
+    },
+    {
+      "slug": "openclaw",
+      "kind": "github",
+      "title": "OpenClaw 个人 AI 助手开发实战",
+      "description": "Interactive classroom generated from openclaw/openclaw.",
+      "category": "ai",
+      "repoFullName": "openclaw/openclaw",
+      "repoUrl": "https://github.com/openclaw/openclaw",
+      "sceneCount": 21,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/openclaw",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/openclaw",
+      "outline": [
+        "OpenClaw 概览与架构",
+        "多渠道消息收件箱",
+        "Gateway 与多 Agent 路由",
+        "语音唤醒与对话模式",
+        "Live Canvas 与工具系统",
+        "安全默认与 DM 策略",
+        "远程访问与 Tailscale"
+      ]
+    },
+    {
+      "slug": "openhands",
+      "kind": "github",
+      "title": "OpenHands AI 自主编程 Agent 架构实战",
+      "description": "Interactive classroom generated from All-Hands-AI/OpenHands.",
+      "category": "ai",
+      "repoFullName": "All-Hands-AI/OpenHands",
+      "repoUrl": "https://github.com/All-Hands-AI/OpenHands",
+      "sceneCount": 21,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/openhands",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/openhands",
+      "outline": [
+        "OpenHands 概览与架构",
+        "配置系统",
+        "Agent 运行时与事件循环",
+        "Runtime 与沙箱",
+        "工具与动作系统",
+        "LLM 集成与对话管理",
+        "安全与扩展能力"
+      ]
+    },
+    {
+      "slug": "browser-use",
+      "kind": "github",
+      "title": "Browser Use AI 浏览器 Agent 实战",
+      "description": "Interactive classroom generated from browser-use/browser-use.",
+      "category": "ai",
+      "repoFullName": "browser-use/browser-use",
+      "repoUrl": "https://github.com/browser-use/browser-use",
+      "sceneCount": 20,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/browser-use",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/browser-use",
+      "outline": [
+        "Browser Use 概览与系统架构",
+        "Agent 核心与执行循环",
+        "Message Manager 与 Prompt 构建",
+        "Agent 状态与历史管理",
+        "浏览器控制与 DOM 交互",
+        "System Prompts 与输出格式",
+        "Skills 集成与高级配置"
+      ]
+    },
+    {
+      "slug": "cline",
+      "kind": "github",
+      "title": "Cline VS Code AI 编程 Agent 架构实战",
+      "description": "Interactive classroom generated from cline/cline.",
+      "category": "ai",
+      "repoFullName": "cline/cline",
+      "repoUrl": "https://github.com/cline/cline",
+      "sceneCount": 20,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/cline",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/cline",
+      "outline": [
+        "Cline 概览与扩展架构",
+        "Host Provider 抽象与多宿主",
+        "Controller 与任务编排",
+        "任务执行系统",
+        "Plan/Act 模式与上下文管理",
+        "Subagents 与 Focus Chain",
+        "AI Provider 集成与工具体系"
+      ]
+    },
+    {
+      "slug": "n8n",
+      "kind": "github",
+      "title": "n8n 工作流编排引擎架构实战",
+      "description": "Interactive classroom generated from n8n-io/n8n.",
+      "category": "productivity",
+      "repoFullName": "n8n-io/n8n",
+      "repoUrl": "https://github.com/n8n-io/n8n",
+      "sceneCount": 18,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/n8n",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/n8n",
+      "outline": [
+        "n8n 概览与运行时架构",
+        "工作流执行引擎",
+        "分布式执行与扩展",
+        "执行恢复与错误处理",
+        "Node 系统与节点开发",
+        "API 与资源管理",
+        "用户/权限与版本管理"
+      ]
+    },
+    {
+      "slug": "opencode",
+      "kind": "github",
+      "title": "OpenCode 终端 AI 编码 Agent 架构实战",
+      "description": "Interactive classroom generated from sst/opencode.",
+      "category": "ai",
+      "repoFullName": "sst/opencode",
+      "repoUrl": "https://github.com/sst/opencode",
+      "sceneCount": 18,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/opencode",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/opencode",
+      "outline": [
+        "OpenCode 概览与架构",
+        "Session 与消息模型",
+        "Prompt 处理管线",
+        "上下文管理与压缩",
+        "存储与数据库",
+        "权限与 HTTP Server",
+        "Project/Worktree 与 Provider"
+      ]
+    },
+    {
+      "slug": "dify",
+      "kind": "github",
+      "title": "Dify LLM 应用平台架构实战",
+      "description": "Interactive classroom generated from langgenius/dify.",
+      "category": "ai",
+      "repoFullName": "langgenius/dify",
+      "repoUrl": "https://github.com/langgenius/dify",
+      "sceneCount": 17,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/dify",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/dify",
+      "outline": [
+        "Dify 概览与系统架构",
+        "核心数据模型与领域实体",
+        "应用类型与执行模式",
+        "Workflow 编排引擎",
+        "知识库与 RAG 系统",
+        "Agent 与工具集成",
+        "部署与运维"
+      ]
+    },
+    {
+      "slug": "tradingagent",
+      "kind": "github",
+      "title": "TradingAgents LLM 交易决策多 Agent 实战",
+      "description": "Interactive classroom generated from TauricResearch/TradingAgents.",
+      "category": "business",
+      "repoFullName": "TauricResearch/TradingAgents",
+      "repoUrl": "https://github.com/TauricResearch/TradingAgents",
+      "sceneCount": 17,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/tradingagent",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/tradingagent",
+      "outline": [
+        "TradingAgents 概览与系统架构",
+        "Agent Teams 与角色分工",
+        "交易决策管线",
+        "多 Agent 辩论与共识机制",
+        "数据工具与市场接入",
+        "配置与部署"
+      ]
+    },
+    {
+      "slug": "crewai",
+      "kind": "github",
+      "title": "CrewAI 多智能体编排框架实战",
+      "description": "Interactive classroom generated from crewaiinc/crewAI.",
+      "category": "ai",
+      "repoFullName": "crewaiinc/crewAI",
+      "repoUrl": "https://github.com/crewaiinc/crewAI",
+      "sceneCount": 16,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/crewai",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/crewai",
+      "outline": [
+        "CrewAI 概览与架构",
+        "核心概念与配置体系",
+        "Agent 智能体架构",
+        "Task 任务系统",
+        "Crew 编排引擎",
+        "Flow 事件驱动工作流",
+        "LLM 集成与工具生态"
+      ]
+    },
+    {
+      "slug": "chatwoot",
+      "kind": "github",
+      "title": "Chatwoot 全渠道客服平台架构与实现",
+      "description": "Interactive classroom generated from chatwoot/chatwoot.",
+      "category": "coding",
+      "repoFullName": "chatwoot/chatwoot",
+      "repoUrl": "https://github.com/chatwoot/chatwoot",
+      "sceneCount": 6,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/chatwoot",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/chatwoot",
+      "outline": [
+        "平台概览与技术架构",
+        "核心数据模型设计",
+        "多渠道收件箱 Inbox 架构",
+        "WebSocket 实时通信系统",
+        "会话 Conversation 与消息处理"
+      ]
+    },
+    {
+      "slug": "lmcache",
+      "kind": "github",
+      "title": "LMCache KV Cache 加速系统：从原理到生产实践",
+      "description": "Interactive classroom generated from LMCache/LMCache.",
+      "category": "coding",
+      "repoFullName": "LMCache/LMCache",
+      "repoUrl": "https://github.com/LMCache/LMCache",
+      "sceneCount": 5,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/lmcache",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/lmcache",
+      "outline": [
+        "模块一：LMCache 核心概念与系统架构",
+        "模块二：存储后端深度解析",
+        "模块三：vLLM V1 集成实战",
+        "模块四：多进程缓存服务器",
+        "模块五：高级特性与分布式部署",
+        "模块六：生产运维与性能调优"
+      ]
+    },
+    {
+      "slug": "tech-manager-growth-path-v2",
+      "kind": "skillpack",
+      "title": "Tech Manager Growth Path V2",
+      "description": "Tech Manager Growth Path V2 interactive skillpack classroom.",
+      "category": "business",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 32,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/tech-manager-growth-path-v2",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/tech-manager-growth-path-v2",
+      "outline": [
+        "课程导读与全景规划页",
+        "模块1·价值重构：从代码生产者到价值放大器",
+        "模块1·时间困境：你的日历被谁绑架了",
+        "模块1·第一次授权：克服“我做得更快”的冲动",
+        "模块1·第一场硬对话：面对资历比你深的下属",
+        "模块1·信任账户：新管理者如何快速积累信用",
+        "模块2·招聘即战略：设计一场能看穿候选人的面试",
+        "模块2·90天融入：让新人在第一个季度就产出价值"
+      ]
+    },
+    {
+      "slug": "ai-app-production",
+      "kind": "skillpack",
+      "title": "AI App Production",
+      "description": "AI App Production interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 28,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/ai-app-production",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/ai-app-production",
+      "outline": [
+        "课程导读与全景规划：《AI应用生产级实战》",
+        "模块1·工作流 vs 代理架构",
+        "模块1·增强型 LLM 构建",
+        "模块1·成本与延迟抉择（含互动推演）",
+        "模块1·模型版本兼容",
+        "模块1·工程架构知识校验",
+        "模块2·Few-shot CoT vs 扩展思考",
+        "模块2·思考预算阈值设计"
+      ]
+    },
+    {
+      "slug": "agent-evaluation-safety",
+      "kind": "skillpack",
+      "title": "Agent Evaluation Safety",
+      "description": "Agent Evaluation Safety interactive skillpack classroom.",
+      "category": "infra",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 26,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/agent-evaluation-safety",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/agent-evaluation-safety",
+      "outline": [
+        "课程导读与全景规划",
+        "模块1·为什么 Agent 难以评测",
+        "模块1·交互演示：Agent 评测陷阱",
+        "模块1·黄金数据集构建",
+        "模块1·LLM-as-Judge 评分",
+        "模块1·工具调用链评估",
+        "模块2·Prompt 注入攻击分类",
+        "模块2·越狱攻击模式"
+      ]
+    },
+    {
+      "slug": "spec-driven-dev",
+      "kind": "skillpack",
+      "title": "Spec Driven Dev",
+      "description": "Spec Driven Dev interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 26,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/spec-driven-dev",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/spec-driven-dev",
+      "outline": [
+        "课程导读与全景规划",
+        "模块1·AI 代码的“幻觉陷阱”",
+        "模块1·规格的五个核心要素",
+        "模块1·动手探索：规格五要素诊断器",
+        "模块1·规格反模式识别",
+        "模块1·规格粒度决策",
+        "模块2·ADR 的核心价值",
+        "模块2·好 ADR 的结构"
+      ]
+    },
+    {
+      "slug": "team-aios-manager",
+      "kind": "skillpack",
+      "title": "AI时代技术经理：AI原生团队管理实战",
+      "description": "以\"Team AIOS（团队操作系统）\"为核心框架，通过6个模块帮助在职技术经理 在AI时代重建团队管理方式。从认知升级到人才体系，从工程流程到工具选型， 从决策机制到领导力升华，学完手里有一套完整的AI原生团队蓝图。 核心命题：当AI能写代码，技术经理的核心价值是什么？",
+      "category": "business",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 26,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/team-aios-manager",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/team-aios-manager",
+      "outline": [
+        "Team AIOS 总览：AI原生团队的操作系统思维",
+        "选用育留：AI时代的人才体系重建",
+        "敏捷迭代 + Harness Engine：人机协作研发流程",
+        "AI工具集：选型、落地与规格编码实战",
+        "高效决策：用AI减少会议、加快判断",
+        "AI领导者：从工具使用者到转型推动者"
+      ]
+    },
+    {
+      "slug": "ai-agent-practice",
+      "kind": "skillpack",
+      "title": "AI Agent 构建实战",
+      "description": "5个阶段掌握 AI Agent 核心技术，打造你的智能客服 Agent。从最小 Agent 到 LangGraph 工作流，从工具调用到生产强化，全程项目驱动。",
+      "category": "data",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 23,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/ai-agent-practice",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/ai-agent-practice",
+      "outline": [
+        "最小 Agent",
+        "工具调用",
+        "记忆管理",
+        "工作流编排",
+        "生产强化"
+      ]
+    },
+    {
+      "slug": "ai-native-transform",
+      "kind": "skillpack",
+      "title": "AI Native Transform",
+      "description": "AI Native Transform interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 22,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/ai-native-transform",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/ai-native-transform",
+      "outline": [
+        "课程导读与全景规划",
+        "模块1·AI 原生架构三层结构",
+        "模块1·转型路线图三阶段推演",
+        "模块1·试点项目选型方法",
+        "模块1·技术架构风险评估",
+        "模块2·Spec-Driven Development 流程",
+        "模块2·AI 时代新岗位职责边界",
+        "模块2·AI 辅助代码 Review"
+      ]
+    },
+    {
+      "slug": "rag-knowledge-base",
+      "kind": "skillpack",
+      "title": "RAG Knowledge Base",
+      "description": "RAG Knowledge Base interactive skillpack classroom.",
+      "category": "data",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 20,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/rag-knowledge-base",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/rag-knowledge-base",
+      "outline": [
+        "课程导读与全景规划：《RAG 知识库 — 从向量检索到生产级系统》",
+        "模块1·基础阶段：幻觉与 RAG 原理",
+        "模块1·基础阶段：迷失在中间问题",
+        "模块1·基础阶段：向量数据库选型 (Chroma)",
+        "模块2·进阶阶段：SummaryIndex 与 tree_summarize 模式",
+        "模块2·进阶阶段：查询分解转换",
+        "模块2·进阶阶段：动态路由查询",
+        "模块3·智能体阶段：DAG vs 智能体架构"
+      ]
+    },
+    {
+      "slug": "llm-finetuning-new",
+      "kind": "skillpack",
+      "title": "大模型LLM微调实战-LoRA全流程微调Qwen客服模型",
+      "description": "5天掌握大模型微调全流程。从客服数据清洗到LoRA训练到部署上线，用Qwen2.5-0.5B微调一个中文客服助手。掌握数据工程、LoRA原理、训练优化、模型评估等核心技术。",
+      "category": "infra",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 18,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/llm-finetuning-new",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/llm-finetuning-new",
+      "outline": [
+        "理解微调",
+        "数据工程",
+        "LoRA训练",
+        "模型评估",
+        "部署上线"
+      ]
+    },
+    {
+      "slug": "zero2deepseek-tui",
+      "kind": "skillpack",
+      "title": "Zero2deepseek TUI",
+      "description": "Zero2deepseek TUI interactive skillpack classroom.",
+      "category": "design",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 17,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/zero2deepseek-tui",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/zero2deepseek-tui",
+      "outline": [
+        "课程导读与全景规划：《零基础学会 CodeWhale》",
+        "模块1·CodeWhale 是什么：1/10 成本与 Constitution",
+        "模块1·双二进制架构：dispatcher 与 runtime",
+        "模块1·安装、首会话与斜杠命令",
+        "模块2·TUI 模式与渐进授权",
+        "模块2·审批模式与沙盒",
+        "模块2·config.toml 配置与命令速查体系",
+        "模块3·Skills 系统与五级发现路径"
+      ]
+    },
+    {
+      "slug": "aefs-agent-from-scratch",
+      "kind": "skillpack",
+      "title": "Agent 从零手写：理解每个设计模式",
+      "description": "5 个阶段从 Agent Loop 到 Workbench，手写每个 Agent 设计模式——不依赖任何框架，从原理开始构建。基于 AI Engineering from Scratch (MIT) 精选改编。",
+      "category": "design",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 16,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/aefs-agent-from-scratch",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/aefs-agent-from-scratch",
+      "outline": [
+        "Agent Loop + Tool Use",
+        "规划模式（ReWOO + Reflexion + ToT）",
+        "记忆系统 + Anthropic 工作流",
+        "Computer Use + 安全防御",
+        "Agent Workbench + 综合实战"
+      ]
+    },
+    {
+      "slug": "multi-agent-systems",
+      "kind": "skillpack",
+      "title": "Multi Agent Systems",
+      "description": "Multi Agent Systems interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 16,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/multi-agent-systems",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/multi-agent-systems",
+      "outline": [
+        "课程导读与全景规划",
+        "模块1·管理者-工作者模式",
+        "模块1·竞争环境与多样性",
+        "模块1·架构模式测验",
+        "模块2·消息格式标准化",
+        "模块2·发布-订阅模式",
+        "模块2·通信机制测验",
+        "模块3·条件边与动态路由"
+      ]
+    },
+    {
+      "slug": "zero2codex",
+      "kind": "skillpack",
+      "title": "Zero2codex",
+      "description": "Zero2codex interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 16,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/zero2codex",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/zero2codex",
+      "outline": [
+        "课程导读与全景规划页",
+        "模块1·初识 Codex CLI：Getting Started",
+        "模块1·动手实践：Prompt 四要素构造器",
+        "模块1·初识 Codex CLI：Slash Commands",
+        "模块1·初识 Codex CLI：AGENTS.md Memory",
+        "模块1·阶段测验",
+        "模块2·项目配置：Project Setup",
+        "模块2·项目配置：Commands Deep Dive"
+      ]
+    },
+    {
+      "slug": "zero2openclacky",
+      "kind": "skillpack",
+      "title": "Zero2openclacky",
+      "description": "Zero2openclacky interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 14,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/zero2openclacky",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/zero2openclacky",
+      "outline": [
+        "课程导读与全景规划：《零基础学会 OpenClacky》",
+        "模块1·Installation & First Start",
+        "模块1·Model Onboarding（动手演练）",
+        "模块1·Slash Commands & Memory",
+        "模块2·Project Configuration",
+        "模块2·Time Machine（动手推演）",
+        "模块3·Skills System",
+        "模块3·Shell Hooks"
+      ]
+    },
+    {
+      "slug": "hermes-agent-fundamentals",
+      "kind": "skillpack",
+      "title": "Hermes Agent Fundamentals",
+      "description": "Hermes Agent Fundamentals interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 13,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/hermes-agent-fundamentals",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/hermes-agent-fundamentals",
+      "outline": [
+        "课程导读与全景规划：《Hermes Agent 构建持久记忆的自主 AI Agent》",
+        "模块1·Agent 记忆的工程问题与复杂度边界",
+        "模块1·托管 vs 本地框架：数据主权与控制权博弈",
+        "模块2·记忆刷写时机与压力触发机制",
+        "模块2·外部持久化存储与记忆挂载点",
+        "模块2·跨会话状态恢复：Messages 传递 vs 内置 Memory",
+        "模块3·并发工具分发：摆脱串行等待的隐形税",
+        "模块3·自定义工具注册：标准接口与生命周期"
+      ]
+    },
+    {
+      "slug": "prompt-engineering",
+      "kind": "skillpack",
+      "title": "Prompt Engineering",
+      "description": "Prompt Engineering interactive skillpack classroom.",
+      "category": "coding",
+      "repoFullName": null,
+      "repoUrl": null,
+      "sceneCount": 11,
+      "classroomUrl": "https://classroom.aiflowlearn.net/zh/classrooms/prompt-engineering",
+      "playUrl": "https://www.aiflowlearn.net/openmaic/classroom/prompt-engineering",
+      "outline": [
+        "课程导读与全景规划：《Prompt Engineering 系统实战》",
+        "模块1·角色设定的力量",
+        "模块1·输出格式控制",
+        "模块1·自我反思机制",
+        "模块2·模板参数化设计",
+        "模块2·Few-shot 示例选择",
+        "模块2·摘要 Prompt 设计",
+        "模块3·越狱模式识别"
+      ]
+    }
+  ]
+}
